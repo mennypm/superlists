@@ -1,5 +1,4 @@
 # -*- coding: future_fstrings -*-
-
 from django.contrib.staticfiles.testing import StaticLiveServerTestCase
 from selenium import webdriver
 from selenium.common.exceptions import WebDriverException
